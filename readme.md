@@ -2,6 +2,19 @@
 
 **Read this entire document before writing a line of code.**
 
+## Contents
+
+* **[Overview](#overview):** What is this project?
+* **[Planning & Deliverables](##planning--deliverables):** What will I be turning in?
+* **[Technical Requirements](#technical-requirements):** What technologies will I be using?
+* **[Further Exploration](#further-exploration):** What if I want to do more?
+* **[Deadlines](#deadlines):** When is it due?
+
+<!-- * **[Submission](#submission):** How do I turn in the project?
+* **[Resources & Support](#resources--support):** Where can I get help?
+* **[Instructor Groups](#instructor-groups):** Who is my assigned instructor for this project? -->
+
+
 ## Overview
 
 ###### What is this project?
@@ -16,6 +29,8 @@ It's time to put everything you've learned in the past month together! You'll us
 **You will be working individually for this project**, but we encourage you to get help from your peers and even pair-program on each other's projects when bugs arise.
 
 ## Planning & Deliverables
+
+###### What will I be turning in?
 
 ### Project Planning Deliverables
 
@@ -39,6 +54,8 @@ It's time to put everything you've learned in the past month together! You'll us
   * Wishlist / Future Development
 
 ## Technical Requirements
+
+###### What technologies will I be using?
 
 ### Core Technical Requirements
 
@@ -65,7 +82,9 @@ It's time to put everything you've learned in the past month together! You'll us
 * **Authentication:** Allow users to sign up, log in, and log out.
 * **Custom Styling:** Go beyond Bootstrap with styles and/or animations customized for your app.
 
-## Ideas for Further Exploration
+## Further Exploration
+
+###### What if I want to do more?
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
@@ -79,15 +98,21 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Deadlines
 
+###### When is it due?
+
 * **Tuesday, November 24th, 9:17am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **Friday, December 4th, 10:00am** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 <!-- ## Submission
 
+###### How do I turn in the project?
+
 * Google doc (GitHub + Heroku links) -->
 
 <!-- ## Resources & Support
+
+###### Where can I get help?
 
 * Documentation, tutorials, Stack Overflow, module notes
 * Your classmates - even though this is an individual project, we encourage you to get help from your peers and even pair-program on each other's projects. -->
@@ -99,6 +124,8 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Evening and weekend TAs -->
 
 <!-- ## Instructor Groups
+
+###### Who is my assigned instructor for this project?
 
 Each student has an assigned instructor, splitting the class into three informal groups. Your instructor will approve your project, lead your morning stand-ups (with the rest of your group), meet with you for 1:1s, and give you feedback after the project. Outside of those structured activities, you're welcome and encouraged to work with other instructors and students from any group you'd like!
 
