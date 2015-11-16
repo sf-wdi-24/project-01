@@ -9,11 +9,13 @@
 * **[Technical Requirements](#technical-requirements):** What technologies will I be using?
 * **[Further Exploration](#further-exploration):** What if I want to do more?
 * **[Deadlines](#deadlines):** When is it due?
+* **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
 
 <!-- * **[Submission](#submission):** How do I turn in the project?
 * **[Resources & Support](#resources--support):** Where can I get help?
 * **[Instructor Groups](#instructor-groups):** Who is my assigned instructor for this project? -->
 
+---
 
 ## Overview
 
@@ -27,6 +29,8 @@ It's time to put everything you've learned in the past month together! You'll us
   * Demonstrate mastery of topics covered during this course so far.
 
 **You will be working individually for this project**, but we encourage you to get help from your peers and even pair-program on each other's projects when bugs arise.
+
+---
 
 ## Planning & Deliverables
 
@@ -52,6 +56,8 @@ It's time to put everything you've learned in the past month together! You'll us
   * Link to Heroku hosted project
   * Technologies
   * Wishlist / Future Development
+
+---
 
 ## Technical Requirements
 
@@ -82,6 +88,8 @@ It's time to put everything you've learned in the past month together! You'll us
 * **Authentication:** Allow users to sign up, log in, and log out.
 * **Custom Styling:** Go beyond Bootstrap with styles and/or animations customized for your app.
 
+---
+
 ## Further Exploration
 
 ###### What if I want to do more?
@@ -96,6 +104,8 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting) with a tool like <a href="http://socket.io" target="_blank">Socket.io</a>.
 * **Whatever else you can think of!**
 
+---
+
 ## Deadlines
 
 ###### When is it due?
@@ -103,6 +113,14 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Tuesday, November 24th, 9:17am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **Friday, December 4th, 10:00am** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+
+---
+
+## Project Feedback
+
+###### How will I get feedback from instructors?
+
+See the [feedback doc](feedback.md) for details.
 
 <!-- ## Submission
 
