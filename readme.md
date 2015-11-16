@@ -87,20 +87,20 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 * Google doc (GitHub + Heroku links) -->
 
-<!-- ## Sources of Help / Support
+<!-- ## Resources & Support
 
-- the internet (the docs, tutorials, stack overflow, the module notes)
-- working with your classmates in Slack
-- working with your classmates in person (tear down that wall!)
-- instructor/student standups every morning at 10:00AM
-- scheduled 1:1s for each student throughout the project
-- breakout lessons on selected topics as needed **[Go Here](http://www.questioncookie.com/BreakOutTopics) to suggest and vote on breakout topics!**
-- instructors and DiRs available in the classroom each weekday (but not all of them, all the time)
-- evening and weekend TAs -->
+* Documentation, tutorials, Stack Overflow, module notes
+* Your classmates - even though this is an individual project, we encourage you to get help from your peers and even pair-program on each other's projects. -->
+
+<!-- * Instructor/student stand-ups every morning at 10:00am
+* Scheduled 1:1 meetings for each student throughout the week
+* Break-out lessons on selected topics as needed
+* Instructors and DIR available in the classroom each weekday (will be taking turns)
+* Evening and weekend TAs -->
 
 <!-- ## Instructor Groups
 
-Each student will have an assigned instructor, which splits us into three informal groups per class. Your instructor will approve your project, lead your morning standups (with the rest of your group), meet with you for 1:1s, and give you feedback after the project. Outside of those structured activities, you're welcome to work with other instructors, the DiRs, and students from any group you'd like!
+Each student has an assigned instructor, splitting the class into three informal groups. Your instructor will approve your project, lead your morning stand-ups (with the rest of your group), meet with you for 1:1s, and give you feedback after the project. Outside of those structured activities, you're welcome and encouraged to work with other instructors and students from any group you'd like!
 
 ### Ben
 
