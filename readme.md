@@ -17,21 +17,21 @@ It's time to put everything you've learned in the past month together! You'll us
 
 ## Planning & Deliverables
 
-### Project Planning Deliverables:
+### Project Planning Deliverables
 
-**You must review the following with your instructional team BEFORE you start to code.**  
+**You must review the following with your instructional team BEFORE you start to code.** Create a <a href="https://trello.com" target="_blank">Trello</a> board that includes user stories, wireframes, ERD, and project milestones.
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a>.
+* **User Stories:** Who is your user? What features will your app have?
 * **Wireframes:** Sketch out what each of your pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
-* **Object Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
+* **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** What are major steps to completing the project?
 * **Feasibility Check:** If you're using an external API, make sure you can get that data. If you are using a new tool, go through its getting started tutorial. We will ask to see your results.
 
 ### Completed Project Deliverables
 
-* Link to Heroku hosted project, with all core technical requirements and three flexible technical requirements complete
-* Link to source code on GitHub
+* Link to Heroku hosted project, with all core technical requirements and two flexible technical requirements complete.
+* Link to source code on GitHub.
 * A `readme.md` file with the following:
   * Description: Short paragraph (2-3 sentences) "elevator pitch" describing what your project does
   * Link to Heroku hosted project
@@ -52,38 +52,42 @@ It's time to put everything you've learned in the past month together! You'll us
 * **Server-Side View Rendering:** Render your HTML views with `hbs`.
 * **Client-Side Templating:** Use Handlebars.js on the client-side to template API data into your view.
 * **Data Validation:** On the client-side, don't let a user submit a blank form, and give them a visible error message explaining why they weren't allowed to submit (see the <a href="http://jqueryvalidation.org/" target="_blank">jQuery Validate</a> library). In your database, use Mongoose validations for at least one attribute in each of your schemas (see the <a href="http://mongoosejs.com/docs/validation.html" target="_blank">Mongoose validation docs</a>).
+* **Testing:** Write request tests for 50% of your API routes.
 * **User Experience:** Leverage Bootstrap to kick-start your UX and UI.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
 
 ### Flexible Technical Requirements
 
-**Your app should have 3 out of the 4 following options:**
+**Your app should have 2 out of the 4 following options:**
 
 * **External API:** Use an external API to integrate third-party data into your app.
 * **Model Relationship:** Create a one-to-many or many-to-many relationship between two models using embedded or referenced data.
 * **Authentication:** Allow users to sign up, log in, and log out.
 * **Custom Styling:** Go beyond Bootstrap with styles and/or animations customized for your app.
 
-<!-- ## Ideas for Further Exploration
+## Ideas for Further Exploration
 
-If you want to push yourself and learn something new, optionally consider doing some of the following with your app. *Please talk to an instructor beforehand.*
+If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
-* **Search** Build a form that allows users to search your data, based on attributes.
-* **Authorization** Create and implement rules that prevent users from seeing/editing/deleting content that belongs to other users. Start with one rule; the specifics are up to you. For example, a good challenge could be saying users cannot delete a post (or other resource) if it is not theirs.  (Note: This requires authentication.)
-* **Testing** Test your code with an automated testing library (<a href="testing.md" target="_blank">here's a resource for mocha and chai</a>).
-* **Email** Send emails with express-mailer.
-* **Payments** Add payments with stripe.com.
+* **Search:** Build a form that allows users to search your data, based on attributes.
+* **Authorization:** Create and implement rules that prevent users from reading/editing/deleting content that belongs to other users. Start with one rule; the specifics are up to you. For example, a good challenge could be saying users cannot delete a post (or other resource) if it is not theirs. (This requires authentication.)
+* **Email:** Send emails with <a href="https://github.com/RGBboy/express-mailer" target="_blank">express-mailer</a>.
+* **Payments:** Add payments with <a href="https://stripe.com" target="_blank">Stripe</a>.
 * **Web-Scraping** Use a web-scraper to collect data from a website that doesn't have an API. Example technologies include <a href="http://casperjs.org" target="_blank">Casper</a> or <a href="https://www.kimonolabs.com" target="_blank">Kimono</a>.
-* **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting) with a tool like <a href="http://socket.io/" target="_blank">Socket.io</a>.
+* **Web Sockets** Create an open, real-time connection between your server and client (e.g. live chatting) with a tool like <a href="http://socket.io" target="_blank">Socket.io</a>.
 * **Whatever else you can think of!**
 
 ## Deadlines
 
-* **Thursday, October 22nd by 12:30pm** - **REQUIRED**:  Submit your project proposal to an instructor and make a Kanban board for it using Trello. Before beginning work on your project, your project idea, the scope of your project, and your other planning deliverables must be checked-off by an instructor.
+* **Tuesday, November 24th, 9:17am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **Friday, October 30th, 10:00am** - Project due and presentations!  (Submission instructions and presentation details will be posted next week.)
+* **Friday, December 4th, 10:00am** - [Completed project deliverables](completed-project-deliverables) due and presentations!
 
-## Sources of Help / Support
+<!-- ## Submission
+
+* Google doc (GitHub + Heroku links) -->
+
+<!-- ## Sources of Help / Support
 
 - the internet (the docs, tutorials, stack overflow, the module notes)
 - working with your classmates in Slack
@@ -92,9 +96,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 - scheduled 1:1s for each student throughout the project
 - breakout lessons on selected topics as needed **[Go Here](http://www.questioncookie.com/BreakOutTopics) to suggest and vote on breakout topics!**
 - instructors and DiRs available in the classroom each weekday (but not all of them, all the time)
-- evening and weekend TAs
+- evening and weekend TAs -->
 
-## Instructor Groups
+<!-- ## Instructor Groups
 
 Each student will have an assigned instructor, which splits us into three informal groups per class. Your instructor will approve your project, lead your morning standups (with the rest of your group), meet with you for 1:1s, and give you feedback after the project. Outside of those structured activities, you're welcome to work with other instructors, the DiRs, and students from any group you'd like!
 
