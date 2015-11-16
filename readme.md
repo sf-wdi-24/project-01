@@ -5,7 +5,7 @@
 ## Contents
 
 * **[Overview](#overview):** What is this project?
-* **[Planning & Deliverables](##planning--deliverables):** What will I be turning in?
+* **[Planning & Deliverables](#planning--deliverables):** What will I be turning in?
 * **[Technical Requirements](#technical-requirements):** What technologies will I be using?
 * **[Further Exploration](#further-exploration):** What if I want to do more?
 * **[Deadlines](#deadlines):** When is it due?
