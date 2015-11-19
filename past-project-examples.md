@@ -2,7 +2,7 @@
 
 Here are some Project 1 examples from students in past cohorts:
 
-* **Annie Redmond**, WDI 23 - <a href="https://aqueous-journey-5377.herokuapp.com" target="_blank>Prayer</a>
+* **Annie Redmond**, WDI 23 - <a href="https://aqueous-journey-5377.herokuapp.com" target="_blank">Prayer</a>
 * **Bradley Farquhar**, WDI 21 - <a href="http://www.giveameal.today" target="_blank">Give a Meal</a>
 * **Bedford Williamson**, WDI 19-20 - <a href="http://ootd-demo.herokuapp.com" target="_blank">OOTD</a>
 * **Erin Mahoney**, WDI 19-20 - <a href="https://digital-darkroom.herokuapp.com" target="_blank">Digital Darkroom</a>
