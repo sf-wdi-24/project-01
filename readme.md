@@ -75,7 +75,7 @@ It's time to put everything you've learned in the past month together! You'll us
 * **Server-Side View Rendering:** Render your HTML views with `hbs`.
 * **Client-Side Templating:** Use Handlebars.js on the client-side to template API data into your view.
 * **Data Validation:** On the client-side, don't let a user submit a blank form, and give them a visible error message explaining why they weren't allowed to submit (see the <a href="http://jqueryvalidation.org/" target="_blank">jQuery Validate</a> library). In your database, use Mongoose validations for at least one attribute in each of your schemas (see the <a href="http://mongoosejs.com/docs/validation.html" target="_blank">Mongoose validation docs</a>).
-* **Testing:** Write request specs for 50% of your server routes.
+* **Testing:** Write request specs for 25% of your server routes.
 * **User Experience:** Leverage Bootstrap to kick-start your UX and UI.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
 
@@ -149,6 +149,26 @@ Each student has an assigned instructor, splitting the class into three informal
 
 ### Ben
 
+André
+Cynthia
+Steven
+
 ### Cameron
 
-### Erik -->
+Alan
+Carlos
+John
+Stanley
+
+### Erik
+
+Adam
+Dave
+Trung
+Zohar
+
+### Zoe
+
+Eddy
+Michael
+Trung -->
