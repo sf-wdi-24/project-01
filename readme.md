@@ -9,11 +9,10 @@
 * **[Technical Requirements](#technical-requirements):** What technologies will I be using?
 * **[Further Exploration](#further-exploration):** What if I want to do more?
 * **[Deadlines](#deadlines):** When is it due?
-* **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
-
-<!-- * **[Submission](#submission):** How do I turn in the project?
+* **[Submission](#submission):** How do I turn in the project?
 * **[Resources & Support](#resources--support):** Where can I get help?
-* **[Instructor Groups](#instructor-groups):** Who is my assigned instructor for this project? -->
+* **[Instructor Groups](#instructor-groups):** Who is my assigned instructor for this project?
+* **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
 
 ---
 
@@ -38,7 +37,7 @@ It's time to put everything you've learned in the past month together! You'll us
 
 ### Project Planning Deliverables
 
-**You must review the following with your instructional team BEFORE you start to code.** Create a <a href="https://trello.com" target="_blank">Trello</a> board that includes your user stories, wireframes, data models (ERD), and project milestones.
+**You must review the following with your instructional team BEFORE you start to code.** Create a <a href="https://trello.com" target="_blank">Trello</a> board that includes your user stories, wireframes, data models (ERD), and project milestones. See the project planning doc for more details.
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
 * **User Stories:** Who is your user? What features will your app have?
@@ -55,7 +54,7 @@ It's time to put everything you've learned in the past month together! You'll us
   * Description: Short paragraph (2-3 sentences) "elevator pitch" describing what your project does
   * Link to Heroku hosted project
   * Technologies
-  * Wishlist / Future Development
+  * Wish List / Future Development
 
 ---
 
@@ -116,59 +115,65 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ---
 
+## Submission
+
+###### How do I turn in the project?
+
+* As you make code changes, **frequently commit and push to GitHub**.
+* To turn in your project, please add the links to your project on GitHub and Heroku to <a href="https://docs.google.com/spreadsheets/d/1iTPLqIKaCCaBPh-4nJcsFSEU9Kp62pd39afQecCKRhc/edit?usp=sharing" target="_blank">this spreadsheet</a>.
+
+---
+
+## Resources & Support
+
+###### Where can I get help?
+
+* Documentation, tutorials, Stack Overflow, module notes
+* Your classmates - even though this is an individual project, we encourage you to get help from your peers and even pair-program on each other's projects.
+* **Stand-up every morning at 10:00am** with your assigned instructor or DIR
+* **1:1 meetings every afternoon** with your assigned instructor or DIR
+* Breakout review sessions at the beginning of the week
+* Instructors and DIR available in the classroom every weekday (will be taking turns)
+* Evening TAs after 5pm
+
+---
+
+## Instructor Groups
+
+###### Who is my assigned instructor for this project?
+
+Each student has an assigned instructor or DIR, splitting the class into four informal groups. Your instructor or DIR will approve your project, lead your morning stand-ups (with the rest of your group), meet with you for 1:1s, and give you feedback after the project. Outside of those structured activities, you're welcome and encouraged to work with other instructors and students from any group you'd like!
+
+#### Ben
+
+* André
+* Cynthia
+* Steven
+
+#### Cameron
+
+* Alan
+* Carlos
+* John
+* Stanley
+
+#### Erik
+
+* Adam
+* Dave
+* Trung
+* Zohar
+
+#### Zoe
+
+* Eddy
+* Michael
+* Victoria
+
+---
+
 ## Project Feedback
 
 ###### How will I get feedback from instructors?
 
 See the [feedback doc](feedback.md) for details.
-
-<!-- ## Submission
-
-###### How do I turn in the project?
-
-* Google doc (GitHub + Heroku links) -->
-
-<!-- ## Resources & Support
-
-###### Where can I get help?
-
-* Documentation, tutorials, Stack Overflow, module notes
-* Your classmates - even though this is an individual project, we encourage you to get help from your peers and even pair-program on each other's projects. -->
-
-<!-- * Instructor/student stand-ups every morning at 10:00am
-* Scheduled 1:1 meetings for each student throughout the week
-* Break-out lessons on selected topics as needed
-* Instructors and DIR available in the classroom each weekday (will be taking turns)
-* Evening and weekend TAs -->
-
-<!-- ## Instructor Groups
-
-###### Who is my assigned instructor for this project?
-
-Each student has an assigned instructor, splitting the class into three informal groups. Your instructor will approve your project, lead your morning stand-ups (with the rest of your group), meet with you for 1:1s, and give you feedback after the project. Outside of those structured activities, you're welcome and encouraged to work with other instructors and students from any group you'd like!
-
-### Ben
-
-André
-Cynthia
-Steven
-
-### Cameron
-
-Alan
-Carlos
-John
-Stanley
-
-### Erik
-
-Adam
-Dave
-Trung
-Zohar
-
-### Zoe
-
-Eddy
-Michael
-Trung -->
