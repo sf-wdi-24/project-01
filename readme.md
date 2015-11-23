@@ -133,7 +133,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Stand-up every morning at 10:00am** with your assigned instructor or DIR
 * **1:1 meetings every afternoon** with your assigned instructor or DIR
 * Breakout review sessions at the beginning of the week
-* Instructors and DIR available in the classroom every weekday (will be taking turns)
+* Instructors and DIR available in the classroom each weekday (will be taking turns)
 * Evening TAs after 5pm
 
 ---
