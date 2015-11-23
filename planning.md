@@ -27,7 +27,7 @@ The same applies to the scope of your project. If you're always looking at the t
 
 Figure out the absolutely smallest thing you can do, and do that thing. Not the next immediate thing, but the simplest possible implementation of your app. If that means that the entire functionality of your app consists of logging in, displaying all of a user's photos from their Instagram account, saving a favorite photo url to the database, and logging out, that is totally great.
 
-Don't think so? Check out the [requirements](./readme.md#completed-project-deliverables). It's all there - your own Node/Express API serving `hbs` templates to your client, `user` and `photo` models associated with each other, AJAX, an external API call, authentication, and so on.
+Don't think so? Check out the [requirements](./readme.md#technical-requirements). It's all there - your own Node/Express API serving `hbs` templates to your client, `user` and `photo` models associated with each other, AJAX, an external API call, authentication, and so on.
 
 See? You did it!
 
