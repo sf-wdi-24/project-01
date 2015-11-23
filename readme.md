@@ -37,7 +37,7 @@ It's time to put everything you've learned in the past month together! You'll us
 
 ### Project Planning Deliverables
 
-**You must review the following with your instructional team BEFORE you start to code.** Create a <a href="https://trello.com" target="_blank">Trello</a> board that includes your user stories, wireframes, data models (ERD), and project milestones. See the project planning doc for more details.
+**You must review the following with your instructional team BEFORE you start to code.** Create a <a href="https://trello.com" target="_blank">Trello</a> board that includes your user stories, wireframes, data models (ERD), and project milestones. See the project [planning doc](./planning.md) for more details.
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
 * **User Stories:** Who is your user? What features will your app have?
@@ -176,4 +176,4 @@ Each student has an assigned instructor or DIR, splitting the class into four in
 
 ###### How will I get feedback from instructors?
 
-See the [feedback doc](feedback.md) for details.
+See the [feedback doc](./feedback.md) for details.
