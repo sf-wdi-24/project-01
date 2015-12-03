@@ -12,6 +12,7 @@
 * **[Submission](#submission):** How do I turn in the project?
 * **[Resources & Support](#resources--support):** Where can I get help?
 * **[Instructor Groups](#instructor-groups):** Who is my assigned instructor for this project?
+* **[Presentation Guidelines](#presentation-guidelines):** What should I cover during my presentation?
 * **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
 
 ---
@@ -169,6 +170,20 @@ Each student has an assigned instructor or DIR, splitting the class into four in
 * Eddy
 * Michael
 * Victoria
+
+---
+
+## Presentation Guidelines
+
+###### What should I cover during my presentation?
+
+Project presentations are **Friday, December 4th at 10:00am**. You will have a maximum of 7 minutes to present. As a guide, please generally cover the following:
+
+1. What is your project?
+2. Why did you build it (motivation)?
+3. Demo!
+4. What is something you learned (show <u>code</u>)?
+5. Shout-outs for fellow classmates.
 
 ---
 
