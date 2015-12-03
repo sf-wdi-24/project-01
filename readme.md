@@ -180,9 +180,9 @@ Each student has an assigned instructor or DIR, splitting the class into four in
 Project presentations are **Friday, December 4th at 10:00am**. You will have a maximum of 7 minutes to present. As a guide, please generally cover the following:
 
 1. What is your project?
-2. Why did you build it (motivation)?
+2. Why did you build it? (motivation)
 3. Demo!
-4. What is something you learned (show <u>code</u>)?
+4. What is something you learned? (show code)
 5. Shout-outs for fellow classmates.
 
 ---
